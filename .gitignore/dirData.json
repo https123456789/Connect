@@ -1,0 +1,65 @@
+{
+	"directories": [
+		{
+			"name": "~",
+			"path": "~",
+			"accessLevel": 0,
+			"contents": [
+				{
+					"name": "announcements.txt",
+					"type": "Plain Text"
+				},
+				{
+					"name": "notices.txt",
+					"type": "Plain Text"
+				},
+				{
+					"name": "readme.txt",
+					"type": "Plain Text"
+				},
+				{
+					"name": "Users",
+					"type": "Directory",
+					"index": 1
+				},
+				{
+					"name": "test.txt",
+					"type": "Plain Text"
+				}
+			]
+		},
+		{
+			"name": "Users",
+			"path": "~/Users",
+			"accessLevel": 0,
+			"contents": [
+				{
+					"name": "Admin",
+					"type": "Directory",
+					"index": 3
+				},
+				{
+					"name": "Test",
+					"type": "Directory",
+					"index": 2
+				}
+			]
+		},
+		{
+			"name": "Test",
+			"path": "~/Users/Test",
+			"accessLevel": 0,
+			"contents": [
+				
+			]
+		},
+		{
+			"name": "Admin",
+			"path": "~/Users/Admin",
+			"accessLevel": 1,
+			"contents": [
+				
+			]
+		}
+	]
+}
