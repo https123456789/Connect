@@ -1,1 +1,0 @@
-Notices:&#13;&#9;The directory framework is currently under repair.&#13;&#9;As a result, some or all of the functionality for the "cat" and "ls" commands may not work.&#13;&#9;In addition to this, the help command is also under repair, but its functionality is not comprimised.

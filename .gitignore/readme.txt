@@ -1,1 +1,0 @@
-This file is in the directory ~.&#13;The directory ~ is the home directory and is the default directory for an "ls" command.&#13;All notices and announcements can be view in the files "notices.txt" and "announcements.txt".&#13;For new users, type help to see a list of commands.
