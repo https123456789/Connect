@@ -1,0 +1,26 @@
+{
+	"name": "~",
+	"path": "~",
+	"entries": [
+		{
+			"name": "announcements.txt",
+			"type": "Plain Text"
+		},
+		{
+			"name": "notices.txt",
+			"type": "Plain Text"
+		},
+		{
+			"name": "readme.txt",
+			"type": "Plain Text"
+		},
+		{
+			"name": "Users",
+			"type": "Directory"
+		},
+		{
+			"name": "test.txt",
+			"type": "Plain Text"
+		}
+	]
+}
