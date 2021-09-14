@@ -1,0 +1,8 @@
+{
+	"bins": [
+		{
+			"name": "man",
+			"path": "Bin/man"
+		}
+	]
+}
